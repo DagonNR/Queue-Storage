@@ -32,8 +32,8 @@ En este repositorio tenemos una demostración del uso de Queue Storage en Azure.
 - Ahora si queremos agregar mensajes, debemos clicar en "+ Agregar Mensaje"
 ![P3](https://github.com/DagonNR/Queue-Storage/blob/main/images/P3.PNG)
 
--Nos desplegará un menú en el cual nos pedirá el mensaje, su expiración y si queremos codificar el cuerpo del mensaje en Base 64.
+- Nos desplegará un menú en el cual nos pedirá el mensaje, su expiración y si queremos codificar el cuerpo del mensaje en Base 64.
 ![P4](https://github.com/DagonNR/Queue-Storage/blob/main/images/P4.PNG)
 
--Los mensajes agregados se verían así.
+- Los mensajes agregados se verían así.
 ![P5](https://github.com/DagonNR/Queue-Storage/blob/main/images/P5.PNG)
